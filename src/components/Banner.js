@@ -7,7 +7,7 @@ const Banner = () => {
         <div className='w-full min-h-[400px] bg-orange-600 grid grid-cols-1 md:grid-cols-2 gap-4 items-center justify-center '>
             {/* <img src={logo} alt="" /> */}
             <div className='text-3xl my-10 px-5 lg:px-20 w-full lg:mx-20'>
-                <h1 className=' mb-5'>Welcome to AtoZ</h1>
+                <h1 className='font-bold mb-5'>Welcome to AtoZ</h1>
                 <h2 className=' mb-5'>We provide you a daily Solution</h2>
                 <Typewriter
                     options={{

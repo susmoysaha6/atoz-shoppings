@@ -10,7 +10,7 @@ const Main = () => {
             <input id="my-drawer-3" type="checkbox" className="drawer-toggle" />
             <div className="drawer-content flex flex-col text-white">
 
-                <div className="w-full  navbar  bg-orange-600  sticky top-0">
+                <div className="w-full z-10  navbar  bg-orange-600  sticky top-0">
 
                     <div className="flex-none lg:hidden">
                         <label htmlFor="my-drawer-3" className="btn btn-square btn-ghost">
